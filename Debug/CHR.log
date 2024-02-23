@@ -1,0 +1,2 @@
+﻿clang-cl : warning : unknown argument ignored in clang-cl: '-std=c11' [-Wunknown-argument]
+  CHR.vcxproj -> C:\Users\Jason\source\repos\CHR\Debug\CHR.exe
